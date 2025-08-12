@@ -10,9 +10,6 @@ A ideia do desafio é desenvolver uma aplicação para sortear alguém de uma li
 
 - `Sorteio `: Clicando no botão __Sortear amigo__ ,a aplicação apresentará na tela a pessoa sorteada aleatoriamente.
 
-
-![Funcionamento da aplicação](https://s1.ezgif.com/tmp/ezgif-188bf6d03e0871.gif)
-
 # Tecnologias utilizadas
 - `Visual Studio Code`
 - `HTML`
